@@ -1,0 +1,51 @@
+[
+  {
+    "CLASS NAME": "SHRUB",
+    "LOSS": 179.5977,
+    "GAIN": 26.2656,
+    "CHANGED": -76.5359389,
+    "UNCHANGED": 2.0034
+  },
+  {
+    "CLASS NAME": "BARELAND",
+    "LOSS": 58.4982,
+    "GAIN": 64.71,
+    "CHANGED": 0.497083183,
+    "UNCHANGED": 12.4965
+  },
+  {
+    "CLASS NAME": "WETLAND",
+    "LOSS": 40.9617,
+    "GAIN": 19.9638,
+    "CHANGED": -8.606049428,
+    "UNCHANGED": 2.4399
+  },
+  {
+    "CLASS NAME": "LOW DENSITY URBAN",
+    "LOSS": 54.927,
+    "GAIN": 20.799,
+    "CHANGED": -21.68096055,
+    "UNCHANGED": 1.5741
+  },
+  {
+    "CLASS NAME": "WATERBODY",
+    "LOSS": 96.5241,
+    "GAIN": 66.0573,
+    "CHANGED": -3.347043702,
+    "UNCHANGED": 9.1026
+  },
+  {
+    "CLASS NAME": "VEGETATION",
+    "LOSS": 24.2946,
+    "GAIN": 87.0525,
+    "CHANGED": 29.4845666,
+    "UNCHANGED": 2.1285
+  },
+  {
+    "CLASS NAME": "HIGH DENSITY URBAN",
+    "LOSS": 5.805,
+    "GAIN": 175.7601,
+    "CHANGED": 285.6868381,
+    "UNCHANGED": 0.5949
+  }
+]
